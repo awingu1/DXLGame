@@ -1,7 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"霍尔德","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"泰雷兹","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"玛莎","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"卢修斯","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":6,"characterName":"Monster","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"幽灵","nickname":"鬼魂","note":"","profile":"一个失去肉体的孤魂野鬼。。。\n需要尽快找到一个重度昏迷的肉体附身后才能生存！"},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"朱阁魂萦","nickname":"老云","note":"","profile":"一个热衷于串串宠物犬的乡巴佬。。。"},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[3,0,0,0,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"刨刨乐","nickname":"乐爷","note":"","profile":"一个通过自己勤恳的双手解决了自己的债务危机，\n最后因为坚持不断奴隶，成为了大乡里的富豪！"},
+{"id":4,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":1,"equips":[4,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"小桃桃","nickname":"桃子","note":"","profile":"一个热衷于开宠物店却从来没有成功个的商人，\n至今都还在为自己的梦想打拼！"},
+{"id":5,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"波波酱","nickname":"波仔","note":"","profile":"一个傻不拉几的小白，每天无所事事，到处瞎逛！"}
 ]
